@@ -1,0 +1,13 @@
+- name: Software Engineer
+  keywords:
+      - C++
+      - Python
+      - Qt
+      - Audio-Plugin
+
+- name: Audio Engineer
+  keywords:
+      - Android 
+      - Audio effect
+      - DL & ML
+      - Beamforming
