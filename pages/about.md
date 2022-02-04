@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Code the world!
-keywords: Xiao Xiong
+keywords: Bear boy
 comments: true
 menu: 关于
 permalink: /about/
